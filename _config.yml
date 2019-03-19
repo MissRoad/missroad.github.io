@@ -1,4 +1,4 @@
-name: Jekyll Themes
+name: GsonQing
 url: http://matt.harzewski.com
 description: Insert tagline here
 
@@ -15,6 +15,6 @@ rdiscount:
 
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile', 'vendor']
 
-repository: missroad/missroad.github.io
-github_url: https://github.com/missroad
-url: https://missroad.github.io
+repository: MissRoad/missroad.github.io
+github_url: https://github.com/MissRoad
+url: https://missroad.github.io/
