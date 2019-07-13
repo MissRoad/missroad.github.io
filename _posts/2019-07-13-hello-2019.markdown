@@ -6,9 +6,8 @@ date:       2019-07-13 12:00:00
 author:     "Qing"
 header-img: "img/post-bg-2015.jpg"
 catalog: true
-tags:
+tags: 
     - 生活
-    - Meta
 ---
 
 > “Yeah It's on. ”
