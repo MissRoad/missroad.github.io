@@ -1,4 +1,4 @@
-###JAVA工程师
+#### JAVA工程师
 Work：(2017-09-01~now)
 
 Life is very short, the rivers and lakes are too big, the goal is still, let us bless each other on the road of growth.
@@ -11,9 +11,9 @@ When a craftsman of a code looks back on the past, he does not repent because of
 
 2019 Come on, be the best yourself! ! !
 
-####contact me
+#### contact me
 - Email:lunar_fzq@126.com
 - WeChat: fzq-miss 
 - QQ: 1310811431
-####About technology
+#### About technology
 It's not because I need to use what kind of domain knowledge to learn, but just plain I want to know, I want to figure it out. After I understand it, what value is there and how much wealth can be created. This is something I never care about. On the contrary, the feedback given by knowledge is the biggest.
