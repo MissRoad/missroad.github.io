@@ -1,20 +1,158 @@
-name: GsonQing
-url: http://matt.harzewski.com
-description: Insert tagline here
+#name: GsonQing
+#url: http://matt.harzewski.com
+#description: Insert tagline here
+#
+#permalink: /themes/:title/
+#
+#gems: [jekyll-paginate]
+#
+#highlighter: pygments
+#paginate: 20
+#
+#markdown: rdiscount
+#rdiscount:
+#    extensions: ['smart']
+#
+#exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile', 'vendor']
+#
+#repository: MissRoad/missroad.github.io
+#github_url: https://github.com/MissRoad
+#url: https://missroad.github.io/
 
-permalink: /themes/:title/
 
-gems: [jekyll-paginate]
+# Site settings
+title: Qing Blog
+SEOTitle: 方宗庆的博客 | Qing Blog
+header-img: img/home-bg.jpg
+email: lunar_fzq@126.com
+description: "后端开发 会一点点前端 | 方宗庆，Web & Mobile Lover，Software Engineer | 这里是 @Qing方宗庆 的个人博客，与你一起发现更大的世界。"
+keyword: "方宗庆, Qing方宗庆, , Qing, @Qing, 方宗庆的博客, Qing Blog, 博客, 个人网站, 互联网, Java, Web, JavaScript,"
+url: "https://missroad.github.io/"              # your host, for absolute URL
+baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
-highlighter: pygments
-paginate: 20
+# Publish posts or collection documents with a future date.
+future: true
 
-markdown: rdiscount
-rdiscount:
-    extensions: ['smart']
+# SNS settings
+RSS: false
+#weibo_username:     Qing
+#zhihu_username:     Qing
+#github_username:    Qing
+#twitter_username:   Qing
+#facebook_username:  Qing
+#linkedin_username:  firstname-lastname-idxxxx
 
-exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile', 'vendor']
 
-repository: MissRoad/missroad.github.io
-github_url: https://github.com/MissRoad
-url: https://missroad.github.io/
+
+# Build settings
+# from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
+highlighter: rouge
+permalink: pretty
+paginate: 10
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md","README.zh.md"]
+anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
+# If you have timezone issue (e.g. #68) in China, uncomment to use this:
+#timezone: CN
+
+
+
+# Gems
+# from PR#40, to support local preview for Jekyll 3.0
+# make sure you have this gem installed
+# `$ gem install jekyll-paginate`
+plugins: [jekyll-paginate]
+
+
+
+# Markdown settings
+# replace redcarpet to kramdown,
+# although redcarpet can auto highlight code, the lack of header-id make the catalog impossible, so I switch to kramdown
+# document: http://jekyllrb.com/docs/configuration/#kramdown
+markdown: kramdown
+kramdown:
+    input: GFM                            # use Github Flavored Markdown !important
+    syntax_highlighter_opts:
+        span:
+            line_numbers: false
+        block:
+            line_numbers: true
+            start_line: 1
+
+
+
+# Disqus settings
+disqus_username: hux
+
+# Netease settings
+netease_comment: false
+
+
+
+# Analytics settings
+# Baidu Analytics
+# ba_track_id: [your track id]
+
+# Google Analytics
+#ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
+#ga_domain: huangxuan.me
+
+
+
+# Sidebar settings
+sidebar: true                           # whether or not using Sidebar.
+sidebar-about-description: "For the next quantum leap<br>天道酬勤，地道庇隐，人道慕高，己道格物。 夫苟其挫而不退矣，则小逆之后，必有小顺。大逆之后，必有大顺。"
+sidebar-avatar: /img/avator-fzq.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+
+
+
+# Featured Tags
+featured-tags: true                         # whether or not using Feature-Tags
+featured-condition-size: 1              # A tag will be featured if the size of it is more than this condition value
+
+
+
+# Progressive Web Apps
+chrome-tab-theme-color: "#000000"
+service-worker: true
+
+
+
+# MathJax rendering for layout:page (e.g. post preview)
+page-mathjax: false
+
+
+
+# Friends
+friends: [
+{
+    title: "乱序",
+    href: "http://mida.re/"
+},{
+    title: "前端外刊评论",
+    href: "http://qianduan.guru/"
+},{
+    title: "天镶的博客",
+    href: "http://lingyu.wang/"
+},{
+    title: "Luke 的自留地",
+    href: "http://hmqk1995.github.io"
+},{
+    title: "Ebn's Blog",
+    href: "http://ebnbin.com/"
+},{
+    title: "SmdCn's Blog",
+    href: "http://blog.smdcn.net"
+},{
+    title: "David's Game",
+    href: "https://www.ruoyaowu.com/"
+},{
+    title: "DHong Say",
+    href: "http://dhong.co"
+},{
+    title: "尹峰以为",
+    href: "http://ingf.github.io/"
+},{
+    title: "解旻的博客",
+    href: "http://xieminis.me/"
+}
+]
