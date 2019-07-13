@@ -1,24 +1,3 @@
-#name: GsonQing
-#url: http://matt.harzewski.com
-#description: Insert tagline here
-#
-#permalink: /themes/:title/
-#
-#gems: [jekyll-paginate]
-#
-#highlighter: pygments
-#paginate: 20
-#
-#markdown: rdiscount
-#rdiscount:
-#    extensions: ['smart']
-#
-#exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile', 'vendor']
-#
-#repository: MissRoad/missroad.github.io
-#github_url: https://github.com/MissRoad
-#url: https://missroad.github.io/
-
 
 # Site settings
 title: Qing Blog

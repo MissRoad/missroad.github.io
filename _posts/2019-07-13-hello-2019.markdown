@@ -1,9 +1,9 @@
 ---
 layout:     post
-title:      "Hello 2015"
+title:      "Hello 2019"
 subtitle:   " \"Hello World, Hello Blog\""
-date:       2015-01-29 12:00:00
-author:     "Hux"
+date:       2019-07-13 12:00:00
+author:     "Qing"
 header-img: "img/post-bg-2015.jpg"
 catalog: true
 tags:
@@ -18,12 +18,8 @@ tags:
 
 Qing 的 Blog 就这么开通了。
 
-[跳过废话，直接看技术实现 ](#build) 
-
-
-
 2019 年，Qing 总算有个地方可以好好写点东西了。
-
+    
 之前是有把平时的技术总结、优秀技术文章记在有道云笔记的，以后就写在这里了
 
 <p id = "build"></p>
