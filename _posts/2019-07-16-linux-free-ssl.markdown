@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "记一次Linux下SSL证书安装"
-subtitle:   " \"记一次Linux下SSL证书安装\""
+subtitle:   "成功了..."
 date:       2019-07-16 22:59:59
 author:     "Qing"
 header-img: "img/post-bg-2019-07-16.jpg"
