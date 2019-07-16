@@ -1,7 +1,7 @@
 
 # Site settings
-title: Qing Blog
-SEOTitle: 方宗庆的博客 | Qing Blog
+title: Qing's Blog
+SEOTitle: 方宗庆的博客 | Qing's Blog
 header-img: img/home-bg.jpg
 email: lunar_fzq@126.com
 description: "后端开发 会一点点前端 | 方宗庆，Web & Mobile Lover，Software Engineer | 这里是 @Qing方宗庆 的个人博客，与你一起发现更大的世界。"
@@ -69,7 +69,7 @@ netease_comment: false
 
 # Analytics settings
 # Baidu Analytics
- ba_track_id: 9091a20833d52ef87ea93ac7f6cfa834
+ba_track_id: 9091a20833d52ef87ea93ac7f6cfa834
 
 # Google Analytics
 #ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
