@@ -74,7 +74,7 @@ import javax.jws.WebService;
 import java.util.Date;
 
 /**
- * @author qun
+ * @author Qing
  */
 @WebService(
         //与接口中指定的name一致
