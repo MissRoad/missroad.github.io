@@ -18,7 +18,7 @@ Spring MVC是一个完全基于MVC模式(Model、View、Controller)的框架。
 
 #### Spring MVC工作原理
 
-![mvc](/img/in_pots/20190718/1.jpg "")
+![mvc](/img/in_pots/20190718/1.jpg "mvc")
 
 #### Spring MVC工作流程:
 - 1.用户发起请求。
