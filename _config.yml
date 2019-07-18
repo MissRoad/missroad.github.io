@@ -60,7 +60,7 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: hux
+disqus_username: Qing
 
 # Netease settings
 netease_comment: false
@@ -72,8 +72,8 @@ netease_comment: false
 ba_track_id: 9091a20833d52ef87ea93ac7f6cfa834
 
 # Google Analytics
-#ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-#ga_domain: huangxuan.me
+ga_track_id: 'UA-144114289-1'            # Format: UA-xxxxxx-xx
+ga_domain: missroad.github.io
 
 
 
