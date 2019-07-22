@@ -9,7 +9,7 @@ catalog: true
 tags: 
     - Design-pattern
 ---
-
+>原文: https://javadoop.com/post/design-pattern
 
 一直想写一篇介绍设计模式的文章，让读者可以很快看完，而且一看就懂，看懂就会用，同时不会将各个模式搞混。自认为本文还是写得不错的😂😂😂，花了不少心思来写这文章和做图，力求让读者真的能看着简单同时有所收获。
 
